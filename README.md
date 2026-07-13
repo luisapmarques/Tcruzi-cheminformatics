@@ -32,13 +32,13 @@ Aiming to accelerate the discovery of safer and more effective treatments, this 
 
 ```
 .
-├── Tcruzi-cheminformatics.ipynb     # Main notebook: full pipeline
+├── Tcruzi-cheminformatics.ipynb    
 ├── data/
-│   └── tcruzi_bioactivity_dataset.csv   # Curated dataset (1,234 compounds)
+│   └── tcruzi_bioactivity_dataset.csv   
 ├── outputs/
-│   ├── knn_performance.png              # Actual vs. Predicted plot (KNN)
-│   ├── williams_plot_knn.png            # Williams Plot — applicability domain
-│   └── umap_3d_chemical_space.png       # 3D UMAP chemical space projection
+│   ├── knn_performance.png             
+│   ├── williams_plot_knn.png           
+│   └── umap_3d_chemical_space.png      
 ├── requirements.txt
 └── README.md
 ```
