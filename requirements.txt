@@ -1,0 +1,8 @@
+chembl_webresource_client
+rdkit
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+umap-learn
