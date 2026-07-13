@@ -34,7 +34,7 @@ Aiming to accelerate the discovery of safer and more effective treatments, this 
 .
 ├── Tcruzi-cheminformatics.ipynb    
 ├── data/
-│   └── tcruzi_bioactivity_dataset.csv   
+│   └── Tcruzi_bioactivity_dataset.csv   
 ├── outputs/
 │   ├── knn_performance.png             
 │   ├── williams_plot_knn.png           
@@ -114,7 +114,7 @@ umap-learn
 
 ### Google Colab (recommended)
 1. Upload `Tcruzi-cheminformatics.ipynb` to Google Colab
-2. Upload `data/tcruzi_bioactivity_dataset.csv` to the Colab session or mount Google Drive
+2. Upload `Tcruzi_bioactivity_dataset.csv` to the Colab session or mount Google Drive
 3. Run **Section 1** only if you wish to reproduce the data collection step (optional)
 4. Run **Section 2** for all ML analyses — it loads the curated dataset directly
 
