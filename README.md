@@ -32,14 +32,10 @@ Aiming to accelerate the discovery of safer and more effective treatments, this 
 
 ```
 .
-├── Tcruzi-cheminformatics.ipynb    
-├── data/
-│   └── Tcruzi_bioactivity_dataset.csv   
-├── outputs/
-│   ├── knn_performance.png             
-│   ├── williams_plot_knn.png           
-│   └── umap_3d_chemical_space.png      
+├── Tcruzi_cheminformatics.ipynb
+├── tcruzi_bioactivity_dataset.csv
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
@@ -155,7 +151,7 @@ ROGERS, D.; HAHN, M. Extended-Connectivity Fingerprints. *Journal of Chemical In
 If this pipeline is useful for your research, please cite:
 
 > MARQUES, L. *QSAR Modeling for Anti-Trypanosoma cruzi Drug Discovery* [Software]. GitHub, 2026.
-> Available at: https://github.com/seu-usuario/Tcruzi-cheminformatics
+> Available at:https://github.com/luisapmarques/tcruzi-cheminformatics
 > FAPESP Project No. 2025/10671-7
 
 ---
